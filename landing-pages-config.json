@@ -1,0 +1,251 @@
+[
+  {
+    "name": "ai-poe-chat-verse",
+    "display_name": "AI Poe Chat Verse",
+    "tagline": "Automatisez vos conversations avec l'IA",
+    "description": "Plateforme de chatbot IA avancée pour entreprises et développeurs. Automatisez le support client, générez des leads qualifiés et boostez votre productivité.",
+    "benefits": [
+      "Réduisez les coûts support de 70%",
+      "Réponse instantanée 24/7",
+      "Intégration seamless avec vos outils",
+      "Analytics temps réel"
+    ],
+    "features": [
+      {
+        "icon": "🤖",
+        "title": "Chatbot IA Avancé",
+        "desc": "GPT-4 powered conversations naturelles"
+      },
+      {
+        "icon": "🔌",
+        "title": "Intégrations Native",
+        "desc": "Slack, Discord, WhatsApp, Website"
+      },
+      {
+        "icon": "📊",
+        "title": "Analytics Dashboard",
+        "desc": "Insights temps réel sur les conversations"
+      },
+      {
+        "icon": "⚡",
+        "title": "Réponse < 1s",
+        "desc": "Latence ultra-faible garantie"
+      }
+    ],
+    "social_proof": {
+      "users": "500+",
+      "conversations": "1M+",
+      "rating": "4.9/5"
+    },
+    "pricing": {
+      "starter": {
+        "price": 29,
+        "features": [
+          "1 chatbot",
+          "1K conversations/mois",
+          "Support email"
+        ]
+      },
+      "pro": {
+        "price": 79,
+        "popular": true,
+        "features": [
+          "5 chatbots",
+          "10K conversations/mois",
+          "Priority support",
+          "API access"
+        ]
+      },
+      "enterprise": {
+        "price": 199,
+        "features": [
+          "Illimité",
+          "Custom integrations",
+          "SLA 99.9%",
+          "Dédié CSM"
+        ]
+      }
+    },
+    "cta": {
+      "primary": "Démarrer gratuitement",
+      "secondary": "Voir la démo",
+      "trial": "14 jours d'essai, sans carte"
+    },
+    "funnel": {
+      "landing_slug": "/ai-poe-chat-verse",
+      "checkout_url": "/checkout/ai-chat",
+      "demo_url": "/demo/ai-chat"
+    },
+    "meta": {
+      "title": "AI Poe Chat Verse - Chatbot IA pour Entreprises | 14J Gratuit",
+      "description": "Automatisez votre support client avec notre chatbot IA avancé. Essai gratuit de 14 jours. Intégration en 5 minutes.",
+      "keywords": "chatbot IA, support client, automatisation, AI, SaaS"
+    }
+  },
+  {
+    "name": "fixie-dashboard-navigator-25",
+    "display_name": "Fixie Dashboard Navigator",
+    "tagline": "Le cockpit ultime pour cyclistes Web3",
+    "description": "Dashboard complet pour track your rides, gérer vos tokens Fixie et rejoindre la communauté move-to-earn. La fusion parfaite entre fitness et blockchain.",
+    "benefits": [
+      "Track toutes vos sorties vélo",
+      "Gagnez des tokens en pédalant",
+      "Communauté Web3 engagée",
+      "NFT badges exclusifs"
+    ],
+    "features": [
+      {
+        "icon": "🚴",
+        "title": "Tracking GPS Précis",
+        "desc": "Cartographie détaillée de vos parcours"
+      },
+      {
+        "icon": "💰",
+        "title": "Gains Tokens",
+        "desc": "Gagnez FIXIE à chaque kilomètre"
+      },
+      {
+        "icon": "🏆",
+        "title": "NFT Badges",
+        "desc": "Collectionnez des badges exclusifs"
+      },
+      {
+        "icon": "👥",
+        "title": "Communauté",
+        "desc": "Rejoignez 10K+ cyclistes Web3"
+      }
+    ],
+    "social_proof": {
+      "riders": "10K+",
+      "km_tracked": "2M+",
+      "tokens_earned": "5M FIXIE"
+    },
+    "pricing": {
+      "starter": {
+        "price": 29,
+        "features": [
+          "Tracking basique",
+          "NFT starter pack",
+          "Communauté access"
+        ]
+      },
+      "pro": {
+        "price": 79,
+        "popular": true,
+        "features": [
+          "Tracking avancé",
+          "Gains tokens x2",
+          "NFT premium",
+          "Strava sync"
+        ]
+      },
+      "rider": {
+        "price": 199,
+        "features": [
+          "Illimité",
+          "Early NFT drops",
+          "Governance DAO",
+          "Support VIP"
+        ]
+      }
+    },
+    "cta": {
+      "primary": "Rejoindre la communauté",
+      "secondary": "Voir la roadmap Web3",
+      "trial": "Connectez votre wallet"
+    },
+    "funnel": {
+      "landing_slug": "/fixie-dashboard",
+      "checkout_url": "/mint/fixie-pro",
+      "demo_url": "/roadmap/fixie"
+    },
+    "meta": {
+      "title": "Fixie Dashboard - Track & Earn | Web3 Cycling Platform",
+      "description": "Track your rides, earn FIXIE tokens, collect NFT badges. The ultimate Web3 cycling platform. Join 10,000+ riders.",
+      "keywords": "cycling, web3, fitness, move-to-earn, NFT, blockchain, vélo"
+    }
+  },
+  {
+    "name": "seo-sea-guru",
+    "display_name": "SEO SEA Guru",
+    "tagline": "Dominez Google avec l'IA",
+    "description": "Suite SEO complète propulsée par l'IA. Audit technique automatisé, suggestions de contenu, monitoring rankings et analyse concurrentielle en temps réel.",
+    "benefits": [
+      "+300% de trafic organique en moyenne",
+      "Top 3 Google en 90 jours",
+      "Savings 50h/mois d'analyse manuelle",
+      "ROI mesurable immédiat"
+    ],
+    "features": [
+      {
+        "icon": "🔍",
+        "title": "Audit SEO IA",
+        "desc": "Scan complet + suggestions actionnables"
+      },
+      {
+        "icon": "✍️",
+        "title": "Content Optimizer",
+        "desc": "Suggestions mots-clés et structure"
+      },
+      {
+        "icon": "📈",
+        "title": "Rank Tracker",
+        "desc": "Monitoring positions temps réel"
+      },
+      {
+        "icon": "🎯",
+        "title": "Spy Competitors",
+        "desc": "Analyse automatique des concurrents"
+      }
+    ],
+    "social_proof": {
+      "clients": "200+",
+      "keywords_tracked": "50K+",
+      "avg_improvement": "+300%"
+    },
+    "pricing": {
+      "starter": {
+        "price": 29,
+        "features": [
+          "1 site",
+          "50 keywords",
+          "Rapports hebdo"
+        ]
+      },
+      "pro": {
+        "price": 79,
+        "popular": true,
+        "features": [
+          "10 sites",
+          "500 keywords",
+          "Content AI",
+          "API access"
+        ]
+      },
+      "agency": {
+        "price": 199,
+        "features": [
+          "Illimité",
+          "White-label",
+          "Multi-accounts",
+          "Priority support"
+        ]
+      }
+    },
+    "cta": {
+      "primary": "Auditer mon site gratuitement",
+      "secondary": "Voir un exemple de rapport",
+      "trial": "Audit SEO gratuit inclus"
+    },
+    "funnel": {
+      "landing_slug": "/seo-sea-guru",
+      "checkout_url": "/subscribe/seo-guru",
+      "demo_url": "/audit-demo"
+    },
+    "meta": {
+      "title": "SEO SEA Guru - Suite SEO IA | Audit Gratuit +300% Trafic",
+      "description": "Dominez Google avec notre suite SEO propulsée par l'IA. Audit gratuit. +300% trafic garanti. 200+ agences nous font confiance.",
+      "keywords": "SEO, SEA, audit SEO, référencement, marketing digital, agence SEO"
+    }
+  }
+]
