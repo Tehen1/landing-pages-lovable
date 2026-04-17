@@ -1,0 +1,12 @@
+{
+  "name": "landing-pages-lovable",
+  "version": "1.0.0",
+  "description": "Top 3 Lovable Apps landing pages",
+  "scripts": {
+    "build": "echo 'Static HTML - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": ["landing-pages", "saas", "ai", "web3", "seo"],
+  "author": "Tehen",
+  "license": "MIT"
+}
